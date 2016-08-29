@@ -1,0 +1,31 @@
+.user {
+	margin-top: 10px;
+	margin-left: 2px;
+}
+
+.card {
+	margin-top: 10px;
+}
+
+.setting {
+	background-color: rgba(255,255,255,0);
+}
+
+.setting_list {
+	margin-top: 35px;
+}
+
+.operation_comment {
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.operation_like {
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.operation_reprint {
+	margin-left: 40px;
+	margin-right: 40px;
+}
